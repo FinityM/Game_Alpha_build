@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game Alpha - Mark",
+"productVersion": "0.1",
+"dataUrl": "GameAlpha_Build.data.unityweb",
+"wasmCodeUrl": "GameAlpha_Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "GameAlpha_Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.4f1"
+}
